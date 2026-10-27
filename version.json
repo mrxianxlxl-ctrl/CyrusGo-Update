@@ -1,6 +1,6 @@
 {
-  "versionCode": 2,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/CyrusGoApp/CyrusGo-Update/releases/download/v1.1.0/CyrusGo-v1.1.0.apk",
-  "notes": "全新升级：顶部悬浮提示条（不打断操作）、动态表情包提醒、内置 4 首 AI 创作可爱铃声 + 自定义铃声上传、全新宠物图标、Muse 风格界面优化、反馈发送失败修复与自动重发。"
+  "versionCode": 3,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/CyrusGoApp/CyrusGo-Update/releases/download/v1.2.0/CyrusGo-v1.2.0.apk",
+  "notes": "大版本升级：Muse 风格界面重构、惯性滚轮闹钟选择器（可自由设置路程与提前分钟）、叠加卡片折扇展开、吸附滚动时间线绘制、勾选联动环形进度与背景变色、粒子反馈按钮、圆形扩散转场、全新极简图标。"
 }
