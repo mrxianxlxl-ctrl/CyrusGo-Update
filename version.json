@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0.0",
-  "apkUrl": "https://github.com/CyrusGoApp/CyrusGo-Update/releases/download/v1.0.0/CyrusGo-v1.0.0.apk",
-  "notes": "CyrusGo 首个正式版本：出发时间智能计算、精准闹钟提醒、可爱宠物弹窗、意见反馈与在线更新。"
+  "versionCode": 2,
+  "versionName": "1.1.0",
+  "apkUrl": "https://github.com/CyrusGoApp/CyrusGo-Update/releases/download/v1.1.0/CyrusGo-v1.1.0.apk",
+  "notes": "全新升级：顶部悬浮提示条（不打断操作）、动态表情包提醒、内置 4 首 AI 创作可爱铃声 + 自定义铃声上传、全新宠物图标、Muse 风格界面优化、反馈发送失败修复与自动重发。"
 }
